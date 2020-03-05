@@ -24,4 +24,7 @@ jobs:
     - uses: actions/setup-node@v1
       with:
         node-version: '12.x'
-    - run: ./deploy.sh ${{ secrets.ACCESS_TOKEN }}
+    - name: deploy
+      env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      run: ./deploy.sh ${ACCESS_TOKEN}
