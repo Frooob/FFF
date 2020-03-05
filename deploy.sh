@@ -11,8 +11,10 @@ else
 fi
 
 
+npm install
+
 # build project
-yarn docs:build
+npm run docs:build
 
 # Password in variable
 
