@@ -3,6 +3,14 @@
 # abort on errors
 set -e
 
+if [ -z "$1" ]
+then
+    REMOTE_REPO="git@github.com:Frooob/FFF.git"
+else
+    REMOTE_REPO="https://Frooob:$1@github.com/Frooob/FFF.git"
+fi
+
+
 # build project
 yarn docs:build
 
@@ -22,6 +30,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:Frooob/FFF.git master:gh-pages
+git push -f $REMOTE_REPO master:gh-pages
+
 
 cd -
