@@ -6,7 +6,9 @@ set -e
 if [ -z "$1" ]
 then
     REMOTE_REPO="git@github.com:Frooob/FFF.git"
-else
+else # github actions
+    git config user.name "${GITHUB_ACTOR}" && \
+    git config user.email "${GITHUB_ACTOR}@users.noreply.github.com" && \
     REMOTE_REPO="https://Frooob:$1@github.com/Frooob/FFF.git"
 fi
 
