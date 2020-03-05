@@ -1,0 +1,11 @@
+# Nobody likes DS Store
+.DS_Store
+
+# Don't need compiled files on git.
+#.vuepress/dist/
+docs/.vuepress/dist/
+
+node_modules/
+#docs/node_modules/
+
+
