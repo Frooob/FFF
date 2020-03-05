@@ -3,14 +3,9 @@
 # abort on errors
 set -e
 
-if [ -z "$1" ]
-then
-    REMOTE_REPO="git@github.com:Frooob/FFF.git"
-else # github actions
-    git config user.name "${GITHUB_ACTOR}" && \
-    git config user.email "${GITHUB_ACTOR}@users.noreply.github.com" && \
-    REMOTE_REPO="https://Frooob:$1@github.com/Frooob/FFF.git"
-fi
+
+REMOTE_REPO="git@github.com:Frooob/FFF.git"
+
 
 
 npm install
@@ -31,6 +26,14 @@ mv Links/index_encrypted.html Links/index.html
 
 
 git init
+
+if [ "$1" ]
+then # github actions
+    git config user.name "${GITHUB_ACTOR}" && \
+    git config user.email "${GITHUB_ACTOR}@users.noreply.github.com" && \
+    REMOTE_REPO="https://Frooob:$1@github.com/Frooob/FFF.git"
+fi
+
 git add -A
 git commit -m 'deploy'
 
