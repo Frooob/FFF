@@ -28,7 +28,7 @@ if [ "$1" ]
 then # github actions
     git config user.name "${GITHUB_ACTOR}" && \
     git config user.email "${GITHUB_ACTOR}@users.noreply.github.com" && \
-    REMOTE_REPO="https://$1@github.com/${GITHUB_REPOSITORY}"
+    REMOTE_REPO="https://$1@github.com/${GITHUB_REPOSITORY}.git"
 fi
 
 git add -A
