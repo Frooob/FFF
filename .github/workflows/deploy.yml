@@ -25,4 +25,6 @@ jobs:
       with:
         node-version: '12.x'
     - name: deploy
-      run: ./deploy.sh ${{ secrets.ACCESS_TOKEN }}
+      env:
+          ACCESS_TOKEN: 
+      run: ./deploy.sh
