@@ -24,11 +24,11 @@ mv Links/index_encrypted.html Links/index.html
 
 git init
 
-if [ "${ACCESS_TOKEN}" ]
+if [ "${GITHUB_TOKEN}" ]
 then # github actions
     git config user.name "${GITHUB_ACTOR}" && \
     git config user.email "${GITHUB_ACTOR}@users.noreply.github.com" && \
-    REMOTE_REPO="https://${ACCESS_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+    REMOTE_REPO="https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
 fi
 
 git add -A
