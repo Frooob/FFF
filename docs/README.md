@@ -32,7 +32,7 @@ Eine kurze Einführung in Slack und wie wir es benutzen findest du hier:
 
 ### Trello
 
-Um unsere Aufgaben zu strukturieren und eine Übersicht über unsere Mittel zu haben benutzen wir zur Zeit [Trello](https://trello.com/de) (ein Programm/App, quasi eine schöne Todo Liste) Auch hier wirst über deine Email Adresse eingeladen.
+Um unsere Aufgaben zu strukturieren und eine Übersicht über unsere Mittel zu haben, benutzen wir zur Zeit [Trello](https://trello.com/de) (ein Programm/App, quasi eine schöne Todo Liste) Auch hier wirst über deine Email Adresse eingeladen.
 
 ### Cloud
 
