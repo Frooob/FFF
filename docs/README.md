@@ -11,7 +11,7 @@ Schön, dass du du bei der Orga der FFF OG Hamburg mithelfen willst!
 Im Folgenden erwarten dich einige Informationen, die für deinen Start in der Ortsgruppe sehr wichtig sind. Nimm dir also ein Bisschen Zeit und Ruhe dir alles sorgfältig durchzulesen. Am Anfang kann die FFF Orga ein Bisschen kompliziert wirken und vielleicht verstehst du nicht sofort alles. Lass dich davon nicht einschüchtern! Sei aufgeschlossen, geh auf die Leute zu und frag nach, wir beißen alle nicht und freuen uns total über engagierte neue Menschen. :)
 
 ::: warning Tipp
-Du solltest die Informationen hier wirklich lesen. Das ist ganz wichtig dafür, dass du schnell den Anschluss bei FFF findest. Also nimm dir doch die 5 Minuten Zeit.
+Du solltest die Informationen hier wirklich lesen. Das ist ganz wichtig dafür, dass du schnell den Anschluss bei FFF findest. Also nimm dir doch die 10 Minuten Zeit.
 :::
 
 [[toc]]
