@@ -16,12 +16,18 @@ Du solltest die Informationen hier wirklich lesen. Das ist ganz wichtig dafür, 
 
 [[toc]]
 
-## Digitale Plattformen
+## Erste Schritte
 
 ### Telegram Gruppen
 Zur Kommunikation benutzen wir vor allen verschiedene Gruppen auf Telegram. In der größten Gruppe, der Open Orga bist du jetzt drin, in dieser werden allgemeine Dinge besprochen. Daneben gibt es aber noch einige andere Gruppen denen du unbedingt beitreten solltest, damit du immer auf dem Laufenden bist. 
 
 [Hier](https://frooob.github.io/FFF/Links/) findest du Einladungslinks zu wichtigen Telegram Gruppen. (Das Passwort dazu hast du in Telegram erhalten.)
+
+### AGs 
+Wie du schon weißt, gibt es verschiedene AGs bei uns um die Arbeit aufzuteilen. Eine genaue Auflistung davon, und welche AnsprechpartnerInnen in den jeweiligen AGs sind findest du [hier](https://frooob.github.io/FFF/AGs/).
+Such dir deine Traum AG aus und du kannst viel Spaß dabei haben gutes für den Planeten zu tun. :)
+
+## Digitale Plattformen - Hier gibts Demokratie!
 
 ### Slack
 Neben Telegram benutzen wir noch Slack, auch eine Kommunikationsplattform wie Telegram und Whatsapp, nur etwas übersichtlicher. Dort werden etwa **Abstimmungen** und Anfragen hochgeladen. Bitte schreib [@MatthiasMi](https://t.me/MatthiasMi) aus der Open Orga deine Email Adresse und du wirst in Slack aufgenommen. 

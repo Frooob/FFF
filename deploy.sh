@@ -11,15 +11,24 @@ npm install
 npm run docs:build
 
 # Password in variable
+Passwort = hhwunderbar
 
 # Encrypt Links.
-find docs/.vuepress/dist/Links/ -type f -name '*.html' -exec ./node_modules/.bin/staticrypt {} hallol \;
+find docs/.vuepress/dist/Links/ -type f -name '*.html' -exec ./node_modules/.bin/staticrypt {} ${Passwort} \;
+
+# Encrypt AGs
+find docs/.vuepress/dist/AGs/ -type f -name '*.html' -exec ./node_modules/.bin/staticrypt {} ${Passwort} \;
+
 
 # navigate into the build output directory
 cd docs/.vuepress/dist
 
 rm Links/index.html
 mv Links/index_encrypted.html Links/index.html
+
+rm AGs/index.html
+mv AGs/index_encrypted.html AGs/index.html
+
 
 
 git init
