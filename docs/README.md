@@ -21,7 +21,7 @@ Du solltest die Informationen hier wirklich lesen. Das ist ganz wichtig dafür, 
 ### Telegram Gruppen
 Zur Kommunikation benutzen wir vor allen verschiedene Gruppen auf Telegram. In der größten Gruppe, der Open Orga bist du jetzt drin, in dieser werden allgemeine Dinge besprochen. Daneben gibt es aber noch einige andere Gruppen denen du unbedingt beitreten solltest, damit du immer auf dem Laufenden bist. 
 
-[Hier](https://frooob.github.io/FFF/Links/) findest du Einladungslinks zu wichtigen Telegram Gruppen. (Das Passwort dazu hast du in Telegram erhalten.)
+[Hier](https://frooob.github.io/FFF/Links/)[Hier2](/Links/) findest du Einladungslinks zu wichtigen Telegram Gruppen. (Das Passwort dazu hast du in Telegram erhalten.)
 
 ### AGs 
 Wie du schon weißt, gibt es verschiedene AGs bei uns um die Arbeit aufzuteilen. Eine genaue Auflistung davon, und welche AnsprechpartnerInnen in den jeweiligen AGs sind findest du [hier](https://frooob.github.io/FFF/AGs/).
