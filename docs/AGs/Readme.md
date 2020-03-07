@@ -2,9 +2,11 @@
 
 Es gibt verschiedene AGs bei der Ortsgruppe Hamburg um die Arbeit zu strukturieren.
 Manche von uns sind Teil in einer AG, manche Teil in vielen AGs. Die Erfahrung zeigt aber, 
-dass es besonders wichtig ist, wenn man sich auf eine bestimmte AG fokussiert und dort zuverlässig Aufgaben übernimmt. 
+dass es besonders wichtig ist, wenn man sich auf eine bestimmte AG fokussiert und dort zuverlässig Aufgaben übernimmt.
 
-Du kannst aber natürlich trotztem gerne bei verschiedenen AGs reinschnuppern und gucken was dir am besten passt! :)
+Du kannst aber natürlich trotztem gerne bei verschiedenen AGs reinschnuppern und gucken was dir am besten passt! :) 
+
+[[toc]]
 
 # Struktur AG
 In dieser AG wird das wöchentliche Plenum organisiert, die Regeln der OG entworfen, das Onboarding geplant und 
