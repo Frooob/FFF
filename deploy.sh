@@ -14,10 +14,10 @@ npm run docs:build
 Passwort = hhwunderbar
 
 # Encrypt Links.
-find docs/.vuepress/dist/Links/ -type f -name '*.html' -exec ./node_modules/.bin/staticrypt {} ${Passwort} \;
+find docs/.vuepress/dist/Links/ -type f -name '*.html' -exec ./node_modules/.bin/staticrypt {} $Passwort \;
 
 # Encrypt AGs
-find docs/.vuepress/dist/AGs/ -type f -name '*.html' -exec ./node_modules/.bin/staticrypt {} ${Passwort} \;
+find docs/.vuepress/dist/AGs/ -type f -name '*.html' -exec ./node_modules/.bin/staticrypt {} $Passwort \;
 
 
 # navigate into the build output directory
