@@ -11,7 +11,9 @@ npm install
 npm run docs:build
 
 # Password in variable
-Passwort = hhwunderbar
+echo Passwort variable erstellen.
+Passwort = "hhwunderbar"
+echo Passwort variable erstellt.
 
 # Encrypt Links.
 find docs/.vuepress/dist/Links/ -type f -name '*.html' -exec ./node_modules/.bin/staticrypt {} $Passwort \;
