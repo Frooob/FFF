@@ -12,14 +12,14 @@ npm run docs:build
 
 # Password in variable
 echo Passwort variable erstellen.
-Passwort = "hhwunderbar"
+PASSWORT="hhwunderbar"
 echo Passwort variable erstellt.
 
 # Encrypt Links.
-find docs/.vuepress/dist/Links/ -type f -name '*.html' -exec ./node_modules/.bin/staticrypt {} $Passwort \;
+find docs/.vuepress/dist/Links/ -type f -name '*.html' -exec ./node_modules/.bin/staticrypt {} $PASSWORT \;
 
 # Encrypt AGs
-find docs/.vuepress/dist/AGs/ -type f -name '*.html' -exec ./node_modules/.bin/staticrypt {} $Passwort \;
+find docs/.vuepress/dist/AGs/ -type f -name '*.html' -exec ./node_modules/.bin/staticrypt {} $PASSWORT \;
 
 
 # navigate into the build output directory
