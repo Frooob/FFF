@@ -9,7 +9,7 @@ Du kannst aber natürlich trotztem gerne bei verschiedenen AGs reinschnuppern un
 [[toc]]
 
 # Struktur AG
-In dieser AG wird das wöchentliche Plenum organisiert, die Regeln der OG entworfen, das Onboarding geplant und 
+In dieser super AG wird das wöchentliche Plenum organisiert, die Regeln der OG entworfen, das Onboarding geplant und 
 die IT-Plattformen der Ortsgruppe verwaltet. Wenn du in der Struktur AG und/oder in einer der Untergruppen mitmachen willst, wende dich an: [MatthiasMi](https://t.me/MatthiasMi) oder [Malte](https://t.me/Maltelforfuture) In der Struktur AG gibt es zur Zeit folgende Untergruppen: 
 
 ##### Welcome T-AG
