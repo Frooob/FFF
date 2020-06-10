@@ -24,9 +24,8 @@ jobs:
     - uses: actions/setup-node@v1
       with:
         node-version: '12.x'
-    - name: NPM install cache
-      uses: c-hive/gha-npm-cache@v1
-
+    #- name: NPM install cache
+    #  uses: c-hive/gha-npm-cache@v1
     #- uses: actions/cache@v1
     #  with:
     #    path: ~/.npm
