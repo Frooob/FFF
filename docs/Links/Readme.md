@@ -48,3 +48,5 @@ Du studierst schon und würdest gerne mithelfen FFF an den UNIs noch präsenter 
 
 Daneben gibt es noch viele weitere Gruppen über die es momentan leider noch keine gute Übersicht gibt. Daran wird gerade gearbeitet. 
 Grundsätzlich stehen dir aber alle Gruppen offen die nicht gerade für gewählte Ämter (z.B. PressesprecherInnen) sind. 
+
+Hast du schon unsere coolen AGs gesehen? Dort kannst du dir aussuchen wo du gerne mitarbeiten willst. [Hier](https://frooob.github.io/FFF/AGs/) findest du die AGs!
