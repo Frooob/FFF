@@ -50,46 +50,6 @@ In dieser **Whatsapp** Gruppe werden wöchentlich OrdnerInnen für die Demos ges
 Du studierst schon und würdest gerne mithelfen FFF an den UNIs noch präsenter zu machen? Dann komm in die Studi AG! 
 [https://t.me/joinchat/CysHW1fIfCKzIj33Z6bxRw](https://t.me/joinchat/CysHW1fIfCKzIj33Z6bxRw)
 
-#### Programm AG: 
-(**im Moment inaktiv**) Du willst mithelfen Demos zu organisieren? Dann bist du hier genau richtig:
-
-[https://t.me/joinchat/K_-BNE7Yp1iIn-19iL0oTQ](https://t.me/joinchat/K_-BNE7Yp1iIn-19iL0oTQ)
-
-#### Corona Aktions TF:
-Du willst die Demos **in Zeiten von Corona** mitplanen? Dann bist du hier genau richtig aufgehoben:
-
-[https://t.me/joinchat/Ia1MohqNw9bar7_6ecV-OQ](https://t.me/joinchat/Ia1MohqNw9bar7_6ecV-OQ)
-
-#### Struktur AG:
-Du willst helfen die Ortsgruppe besser zu strukturieren? Hier kannst du genau das tun:
-
-[https://t.me/joinchat/MskfghbV7GMbuCvLHbrv6A](https://t.me/joinchat/MskfghbV7GMbuCvLHbrv6A)
-
-#### Awareness AG:
-Du willst mit daran arbeiten, dass es allen Menschen in unserer Ortsgruppe gut geht? Dann komm hier rein:
-
-[https://t.me/joinchat/LARZ8VV9wwZzODOQ91T96Q ](https://t.me/joinchat/LARZ8VV9wwZzODOQ91T96Q )
-
-#### Presse AG:
-Du willst mitarbeiten an der Pressearbeit der Ortsgruppe Hamburg? Komm einfach in diese Gruppe:
-
-[https://t.me/joinchat/LV9s7UZlizKOJJlCybIPHg](https://t.me/joinchat/LV9s7UZlizKOJJlCybIPHg)
-
-#### Social-Media AG:
-Hast du Interesse mitzuhelfen Sachen für unsere Social-Media Kanäle zu erstellen? Das kannst du hier machen:
-
-[https://t.me/joinchat/Mit2QU4BrKVsZ5kBYkR0wQ](https://t.me/joinchat/Mit2QU4BrKVsZ5kBYkR0wQ)
-
-#### Schul AG:
-Willst du mithelfen uns mit den hamburger Schulen zu vernetzen? Dann komm doch einfach mal hier rein:
-
-Link folgt bald :)
-
-#### Musik AG: 
-Macht es dir Spaß musikalisch aktiv zu sein? Dann bist du sicher hier ganz gut aufgehoben:
-
-[https://t.me/joinchat/MskfglGUgfnyb7wMPV0nbA](https://t.me/joinchat/MskfglGUgfnyb7wMPV0nbA)
-
 
 
 Daneben gibt es noch viele weitere Gruppen über die es momentan leider noch keine gute Übersicht gibt. Daran wird gerade gearbeitet. 
