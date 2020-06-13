@@ -53,7 +53,7 @@ Du studierst schon und würdest gerne mithelfen FFF an den UNIs noch präsenter 
 #### Programm AG: 
 (**im Moment inaktiv**) Du willst mithelfen Demos zu organisieren? Dann bist du hier genau richtig:
 
-Link folgt bald :)
+[https://t.me/joinchat/K_-BNE7Yp1iIn-19iL0oTQ](https://t.me/joinchat/K_-BNE7Yp1iIn-19iL0oTQ)
 
 #### Corona Aktions TF:
 Du willst die Demos **in Zeiten von Corona** mitplanen? Dann bist du hier genau richtig aufgehoben:
@@ -86,9 +86,10 @@ Willst du mithelfen uns mit den hamburger Schulen zu vernetzen? Dann komm doch e
 Link folgt bald :)
 
 #### Musik AG: 
-Hast du Spaß Musik zu machen? Dann bist du sicher hier ganz gut aufgehoben:
+Macht es dir Spaß musikalisch aktiv zu sein? Dann bist du sicher hier ganz gut aufgehoben:
 
 [https://t.me/joinchat/MskfglGUgfnyb7wMPV0nbA](https://t.me/joinchat/MskfglGUgfnyb7wMPV0nbA)
+
 
 
 Daneben gibt es noch viele weitere Gruppen über die es momentan leider noch keine gute Übersicht gibt. Daran wird gerade gearbeitet. 
