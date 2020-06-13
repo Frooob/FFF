@@ -49,5 +49,8 @@ Die Musik-AG unterstützt die Demonstrationen, Mobitouren oder andere Aktionen v
 # Studis AG
 Um an den Unis von Hamburg präsent zu bleiben und im Austausch zu bleiben haben wir auch eine Studi AG, wenn du also studierst oder bald damit anfängst komm gerne in die Studi AG und melde dich bei [Eva](https://t.me/evajuliemars)
 
+# Corona Aktions TF
+Während Corona hat sich irgendwie alles ein bisschen verändert und so auch unsere Demos. Diese Taskforce organisiert im Moment trotz der Umstände wöchentliche Demos. Wenn du Lust hast aktiv dabei zu helfen, melde dich bei [Nick](https://t.me/nickschroeder)
+
 Bist du auch schon in unsere tollen Telegram Gruppen eingetreten? Hier sind die [Einladungslinks](../Links)
 
