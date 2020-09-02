@@ -10,7 +10,7 @@ Du kannst aber natürlich trotztem gerne bei verschiedenen AGs reinschnuppern un
 
 # Struktur AG
 In dieser super AG wird das wöchentliche Plenum organisiert, die Regeln der OG entworfen, das Onboarding geplant und 
-die IT-Plattformen der Ortsgruppe verwaltet. Wenn du in der Struktur AG und/oder in einer der Untergruppen mitmachen willst, wende dich an: [MatthiasMi](https://t.me/MatthiasMi) oder [Malte](https://t.me/Maltelforfuture) In der Struktur AG gibt es zur Zeit folgende Untergruppen: 
+die IT-Plattformen der Ortsgruppe verwaltet. Wenn du in der Struktur AG und/oder in einer der Untergruppen mitmachen willst, wende dich an: [Malte](https://t.me/Maltelforfuture) In der Struktur AG gibt es zur Zeit folgende Untergruppen: 
 
 ##### Welcome T-AG
 Hier wird das Onboarding geplant, also die Treffen um die neuen Menschen in unsere Arbeitsweise einzuführen. Außerdem werden Pläne entworfen alle 
@@ -24,7 +24,7 @@ Hier könnte an der IT Infrastruktur der OG gebastelt werden. Momentan
 passiert hier noch nicht so viel. Aber wenn du Fähigkeiten in dem Bereich hast oder lernwillig bist hilf gerne mit. Es gibt unendlich viele Ideen um das Leben der Mitglieder der OG technisch zu erleichtern. 
 
 # Programm AG 
-In dieser AG werden die wöchentlichen Streiks organisiert. Also die Routem, das Thema und die Aktionsformen. Wenn du in der Programm AG und/oder in einer der Untergruppen mitmachen willst, wende dich an: [Nina](https://t.me/nina_gs) aus der OO oder [Liv](https://t.me/livyyliv).
+In dieser AG werden die wöchentlichen Streiks organisiert. Also die Routem, das Thema und die Aktionsformen. Wenn du in der Programm AG und/oder in einer der Untergruppen mitmachen willst, wende dich an: [Maibritt](https://t.me/MaibrittHamburg) aus der OO oder [Liv](https://t.me/livyyliv).
 In der Programm AG gibt es zur Zeit folgende Untergruppen: 
 
 ##### Demo Motivation
@@ -45,7 +45,7 @@ Hier werden die Postings auf unseren Social Media Seiten verfasst und ins Netz g
 Hier sorgen wir dafür, dass wir an den verschiedenen Schulen Hamburgs AnsprechpartnerInnen und generell auch an den Schulen mobilisieren können und mit diesen vernetzt sind. Wenn du in der Schul AG mitmachen möchstes melde dich bei [Pia](https://t.me/pia56) aus der OO.
 
 # Musik AG
-Die Musik-AG unterstützt die Demonstrationen, Mobitouren oder andere Aktionen von FFF musikalisch. Dies tut sie in Form von Singen oder mit Instrumenten. Wenn du bei der Schul AG mitmachen möchtest, melde ich bei [Levy](https://t.me/Zecke_161) oder [Janne](https://t.me/Jay280).
+Die Musik-AG unterstützt die Demonstrationen, Mobitouren oder andere Aktionen von FFF musikalisch. Dies tut sie in Form von Singen oder mit Instrumenten. Wenn du bei der Schul AG mitmachen möchtest, melde ich bei [Janne](https://t.me/Jay280).
 
 # Studis AG
 Um an den Unis von Hamburg präsent zu bleiben und im Austausch zu bleiben haben wir auch eine Studi AG, wenn du also studierst oder bald damit anfängst komm gerne in die Studi AG und melde dich bei [Eva](https://t.me/evajuliemars)
