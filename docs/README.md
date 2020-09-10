@@ -30,7 +30,7 @@ Such dir deine Traum AG aus und du kannst viel Spaß dabei haben gutes für den 
 ## Digitale Plattformen - Hier gibts Demokratie!
 
 ### Slack
-Neben Telegram benutzen wir noch Slack, auch eine Kommunikationsplattform wie Telegram und Whatsapp, nur etwas übersichtlicher. Dort werden etwa **Abstimmungen** und Anfragen hochgeladen. Bitte schreib [@MatthiasMi](https://t.me/MatthiasMi) aus der Open Orga deine Email Adresse und du wirst in Slack aufgenommen. 
+Neben Telegram benutzen wir noch Slack, auch eine Kommunikationsplattform wie Telegram und Whatsapp, nur etwas übersichtlicher. Dort werden etwa **Abstimmungen** und Anfragen hochgeladen. Bitte schreib [@Nick](https://t.me/@nickschroeder) aus der Open Orga deine Email Adresse und du wirst in Slack aufgenommen. 
 
 Eine kurze Einführung in Slack und wie wir es benutzen findest du hier: 
 
