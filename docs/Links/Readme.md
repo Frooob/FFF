@@ -28,11 +28,6 @@ Auf unseren Demos werden häufig schöne Bilder gemacht, vor allem auch von den 
 
 [https://t.me/joinchat/LARZ8RXq9dl-7jMZ4YkEhQ](https://t.me/joinchat/LARZ8RXq9dl-7jMZ4YkEhQ)
 
-#### Aufgabenverteilung:
-In dieser Gruppe werden Aufgaben verteilt. Wenn du noch nichts zu tun hast oder gerne mehr tun willst komm gerne in die Gruppe!
-
-[https://t.me/joinchat/MskfgheFSbM9Byp6k9fU9g](https://t.me/joinchat/MskfgheFSbM9Byp6k9fU9g)
-
 #### Aktionsgruppe:
 Hier werden vor allem gemeinsame Mobi Aktionen geplant und koordiniert, wie etwa Plakate kleben oder Flyer austeilen, du solltest unbedingt in die Aktionsgruppe eintreten: 
 
@@ -41,10 +36,6 @@ Hier werden vor allem gemeinsame Mobi Aktionen geplant und koordiniert, wie etwa
 #### Technik:
 In dieser Gruppe wird der wöchentliche Aufbau vom Lautsprecher Wagen koordiniert. Komm hier gerne rein wenn du gerne mal beim Aufbau helfen willst: 
 [https://t.me/joinchat/CysHW1J2WNo4W_z2gBXbcQ](https://t.me/joinchat/CysHW1J2WNo4W_z2gBXbcQ)
-
-#### OrdnerInnen Koordination:
-In dieser **Whatsapp** Gruppe werden wöchentlich OrdnerInnen für die Demos gesucht, wenn du über 18 bist solltest du auf jeden Fall in diese Gruppe eintreten:
-[https://chat.whatsapp.com/IZeOlKbuIqF86246cRjWeS](https://chat.whatsapp.com/IZeOlKbuIqF86246cRjWeS)
 
 #### Studi AG:
 Du studierst schon und würdest gerne mithelfen FFF an den UNIs noch präsenter zu machen? Dann komm in die Studi AG! 

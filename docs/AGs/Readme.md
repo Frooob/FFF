@@ -10,7 +10,7 @@ Du kannst aber natürlich trotztem gerne bei verschiedenen AGs reinschnuppern un
 
 # Struktur AG
 In dieser super AG wird das wöchentliche Plenum organisiert, die Regeln der OG entworfen, das Onboarding geplant und 
-die IT-Plattformen der Ortsgruppe verwaltet. Wenn du in der Struktur AG und/oder in einer der Untergruppen mitmachen willst, wende dich an: [Malte](https://t.me/Maltelforfuture) In der Struktur AG gibt es zur Zeit folgende Untergruppen: 
+die IT-Plattformen der Ortsgruppe verwaltet. Wenn du in der Struktur AG und/oder in einer der Untergruppen mitmachen willst, wende dich an: [Luke](https://t.me/LukeMundt) In der Struktur AG gibt es zur Zeit folgende Untergruppen: 
 
 ##### Welcome T-AG
 Hier wird das Onboarding geplant, also die Treffen um die neuen Menschen in unsere Arbeitsweise einzuführen. Außerdem werden Pläne entworfen alle 
@@ -24,28 +24,28 @@ Hier könnte an der IT Infrastruktur der OG gebastelt werden. Momentan
 passiert hier noch nicht so viel. Aber wenn du Fähigkeiten in dem Bereich hast oder lernwillig bist hilf gerne mit. Es gibt unendlich viele Ideen um das Leben der Mitglieder der OG technisch zu erleichtern. 
 
 # Programm AG 
-In dieser AG werden die wöchentlichen Streiks organisiert. Also die Routem, das Thema und die Aktionsformen. Wenn du in der Programm AG und/oder in einer der Untergruppen mitmachen willst, wende dich an: [Maibritt](https://t.me/MaibrittHamburg) aus der OO oder [Liv](https://t.me/livyyliv).
+In dieser AG werden die wöchentlichen Streiks organisiert. Also die Routem, das Thema und die Aktionsformen. Wenn du in der Programm AG und/oder in einer der Untergruppen mitmachen willst, wende dich an: [Maibritt](https://t.me/MaibrittHamburg) aus der OO oder [Liv](https://t.me/sternchennnn).
 In der Programm AG gibt es zur Zeit folgende Untergruppen: 
 
 ##### Demo Motivation
 Du wolltest schon immer mal mit einem Megafon oder den Lautsprechern die 
 Stimmung auf einer Demo anheizen? Hier bist du genau richtig. Hilf uns 
-Stimmung auf den Demos zu machen! 
+Stimmung auf den Demos zu machen! Dazu kannst du einfach eine Nachricht in die Open Orga Gruppe schreiben, dann wird schon jemand auf dich zukommen. 
 
 # Awareness AG 
-Hier geht es darum, dass es allen Mitgliedern der OG gut geht. Dafür soll die Awareness AG zum Beispiel Hilfe bei Konfliktlösungen bieten und dafür sorgen dass sich niemand diskriminiert fühlt. Aber auch auf den Großdemos haben wir immer Awareness Teams die dafür sorgen dass sich niemand unter den Demo TeilnehmerInnen unwohl fühlt. Wenn du in der Awareness AG mitmachen willst, wende dich an: [Nils](https://t.me/Neugieriger_Nils).
+Hier geht es darum, dass es allen Mitgliedern der OG gut geht. Dafür soll die Awareness AG zum Beispiel Hilfe bei Konfliktlösungen bieten und dafür sorgen dass sich niemand diskriminiert fühlt. Aber auch auf den Großdemos haben wir immer Awareness Teams die dafür sorgen dass sich niemand unter den Demo TeilnehmerInnen unwohl fühlt. Wenn du in der Awareness AG mitmachen willst, wende dich an: [Nils](https://t.me/NilsBockel).
 
 # Presse AG 
 Hier werden wöchentlich Pressemittelungen verfasst und Korrekturgelesen. Außderdem werden Anfragen verteilt. Wir haben ein gewähltes Pressekoordinationsteam das die Anfragen verteilt und ein PressesprecherInnen Team dass in den Medien auftritt. Aber nicht nur die gewählten VertreterInnen haben die Chance Anfragen anzunehmen. Sei also auch hier nicht schüchtern. Wenn du in der Presse AG mitmachen willst, wende dich an: [Emily](https://t.me/EmilyKarius), [Franka](https://t.me/franka03) oder [Philipp We](https://t.me/philippniclas) aus der OO.
 
 # Social Media AG
-Hier werden die Postings auf unseren Social Media Seiten verfasst und ins Netz geladen. Wenn du also kreativ bist und gerne mal ein Sharepic oder ähnliches erstellen willst komm gerne in die Social Media AG. Die Personen, die die Inhalte letzlich auf den Plattformen hochladen werden gewählt. Wenn du in der Social Media AG mitmachen willst, wende ich an: Emilia aus der OO, Greta aus der OO, [Jan-Marius](https://t.me/janmarius_k)oder [Nils](https://t.me/Neugieriger_Nils). 
+Hier werden die Postings auf unseren Social Media Seiten verfasst und ins Netz geladen. Wenn du also kreativ bist und gerne mal ein Sharepic oder ähnliches erstellen willst komm gerne in die Social Media AG. Die Personen, die die Inhalte letzlich auf den Plattformen hochladen werden gewählt. Wenn du in der Social Media AG mitmachen willst, wende ich an: Emilia aus der OO, Greta aus der OO, [Jan-Marius](https://t.me/janmarius_k)oder [Nils](https://t.me/NilsBockel). 
 
 # Schul AG 
 Hier sorgen wir dafür, dass wir an den verschiedenen Schulen Hamburgs AnsprechpartnerInnen und generell auch an den Schulen mobilisieren können und mit diesen vernetzt sind. Wenn du in der Schul AG mitmachen möchstes melde dich bei [Pia](https://t.me/pia56) aus der OO.
 
 # Musik AG
-Die Musik-AG unterstützt die Demonstrationen, Mobitouren oder andere Aktionen von FFF musikalisch. Dies tut sie in Form von Singen oder mit Instrumenten. Wenn du bei der Schul AG mitmachen möchtest, melde ich bei [Janne](https://t.me/Jay280).
+Die Musik-AG unterstützt die Demonstrationen, Mobitouren oder andere Aktionen von FFF musikalisch. Dies tut sie in Form von Singen oder mit Instrumenten. Wenn du bei der Musik AG mitmachen möchtest, melde ich bei [Janne](https://t.me/Jay280).
 
 # Studis AG
 Um an den Unis von Hamburg präsent zu bleiben und im Austausch zu bleiben haben wir auch eine Studi AG, wenn du also studierst oder bald damit anfängst komm gerne in die Studi AG und melde dich bei [Eva](https://t.me/evajuliemars)
