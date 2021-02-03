@@ -1,12 +1,17 @@
 [Zurück](../README.md)
 
 Tritt gerne auch einfach in alle diese Gruppen ein um die volle FFF Hamburg Experience zu erleben. :)
-Sollte einer der Links nicht funktionieren schreib bitte [@MatthiasMi](https://t.me/MatthiasMi) aus der Open Orga. 
+Sollte einer der Links nicht funktionieren schreib bitte [Nick](https://t.me/nickschroeder) oder [Matthias](https://t.me/MatthiasMi) aus der Open Orga. 
 
 #### Infostream OG Hamburg:
-Du solltest **unbedingt** in diese Gruppe eintreten, hier werden die wichtigsten Infos rund um die OG Hamburg geteilt. Hier findet keine diskussion statt :
+Du solltest **unbedingt** in diese Gruppe eintreten, hier werden die wichtigsten Infos rund um die OG Hamburg geteilt. Hier findet keine diskussion statt:
 
 [https://t.me/joinchat/CysHW1bOGqvMF_nT7w-uMA](https://t.me/joinchat/CysHW1bOGqvMF_nT7w-uMA)
+
+#### Abstimmungschannel OG Hamburg:
+Auch diesem Channel solltest du **unbedingt** beitreten, hier finden alle Abstimmungen unserer Ortsgruppe statt:
+
+[https://t.me/joinchat/VYzetGZuC4uzlUVu](https://t.me/joinchat/VYzetGZuC4uzlUVu)
 
 #### Smalltalk:
 Weil in der Open Orga Gruppe wirklich nur Orga besprochen werden soll, gibt es die Smalltalk Gruppe, wo sich auch über private Dinge ausgetauscht werden kann. Gut um die Mitglieder der OG kennenzulernen:
