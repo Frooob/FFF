@@ -41,6 +41,9 @@ In der AG für Öffentlichkeitsarbeit geht es rund um unsere Außenpräsenz. Es 
 # Studis AG
 Um an den Unis von Hamburg präsent zu bleiben und im Austausch zu bleiben haben wir auch eine Studi AG, wenn du also studierst oder bald damit anfängst komm gerne in die Studi AG und melde dich bei [Eva](https://t.me/evajuliemars)
 
+# Fun AG
+Die Fun AG kümmert sich darum, dass die Arbeit in der Ortsgruppe ein bisschen mehr Spaß macht :) Um der AG beizutreten kannst du gerne [Lorenz](https://t.me/LorenzPatzner).
+
 
 
 
