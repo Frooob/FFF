@@ -13,6 +13,11 @@ Auch diesem Channel solltest du **unbedingt** beitreten, hier finden alle Abstim
 
 [https://t.me/joinchat/VYzetGZuC4uzlUVu](https://t.me/joinchat/VYzetGZuC4uzlUVu)
 
+#### Bundesstream Hamburg:
+In diesem Channel findet ihr alle Nachrichten und Abstimmung rund um die Bundesebene:
+
+[t.me/joinchat/AAAAAFMKpYdDJ0xxAseC5Q](https://t.me/joinchat/AAAAAFMKpYdDJ0xxAseC5Q)
+
 #### Smalltalk:
 Weil in der Open Orga Gruppe wirklich nur Orga besprochen werden soll, gibt es die Smalltalk Gruppe, wo sich auch über private Dinge ausgetauscht werden kann. Gut um die Mitglieder der OG kennenzulernen:
 
