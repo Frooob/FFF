@@ -6,7 +6,7 @@ Sollte einer der Links nicht funktionieren schreib bitte [Nick](https://t.me/nic
 #### Infostream OG Hamburg:
 Du solltest **unbedingt** in diese Gruppe eintreten, hier werden die wichtigsten Infos rund um die OG Hamburg geteilt. Hier findet keine diskussion statt:
 
-[https://t.me/joinchat/CysHW1bOGqvMF_nT7w-uMA](https://t.me/joinchat/CysHW1bOGqvMF_nT7w-uMA)
+[https://t.me/joinchat/GH8k6GGlumEwY2Ni](https://t.me/joinchat/GH8k6GGlumEwY2Ni)
 
 #### Abstimmungschannel OG Hamburg:
 Auch diesem Channel solltest du **unbedingt** beitreten, hier finden alle Abstimmungen unserer Ortsgruppe statt:
