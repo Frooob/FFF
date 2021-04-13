@@ -28,11 +28,6 @@ Und um in der Smalltalk Gruppe auch möglichst nur Smalltalk zu haben, gibt es e
 
 [https://t.me/joinchat/CysHW0YkFVdufRScNCxAOg](https://t.me/joinchat/CysHW0YkFVdufRScNCxAOg)
 
-#### Diskussion extern:
-Diese Gruppe ist fast genauso wie die interne Diskussionsgruppe, nur ist diese Gruppe öffentlich. Somit können hier alle Personen diskutieren egal ob Sie in der Ortsgruppe sind oder nicht. Wenn du hier mitdiskutieren willst:
-
-[https://t.me/joinchat/KWvq0lIBvQu9JzpjnHY24g](https://t.me/joinchat/KWvq0lIBvQu9JzpjnHY24g)
-
 #### Demofotos:
 Auf unseren Demos werden häufig schöne Bilder gemacht, vor allem auch von den Leuten der Orga. Vielleicht bist du ja auch auf einem Bild drauf? Außerdem kannst du hier gerne auch deine Demofotos hochladen.
 
@@ -49,7 +44,7 @@ In dieser Gruppe wird der wöchentliche Aufbau vom Lautsprecher Wagen koordinier
 
 #### Studi AG:
 Du studierst schon und würdest gerne mithelfen FFF an den UNIs noch präsenter zu machen? Dann komm in die Studi AG! 
-[https://t.me/joinchat/CysHW1fIfCKzIj33Z6bxRw](https://t.me/joinchat/CysHW1fIfCKzIj33Z6bxRw)
+[https://t.me/joinchat/V024Ge9uRxjcinBS](https://t.me/joinchat/V024Ge9uRxjcinBS)
 
 
 
