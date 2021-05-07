@@ -6,7 +6,7 @@ Sollte einer der Links nicht funktionieren schreib bitte [Nick](https://t.me/nic
 #### Infostream OG Hamburg:
 Du solltest **unbedingt** in diese Gruppe eintreten, hier werden die wichtigsten Infos rund um die OG Hamburg geteilt. Hier findet keine diskussion statt:
 
-[https://t.me/joinchat/GH8k6GGlumEwY2Ni](https://t.me/joinchat/GH8k6GGlumEwY2Ni)
+[https://t.me/joinchat/3_qac4mWH7g5NTQ6](https://t.me/joinchat/3_qac4mWH7g5NTQ6)
 
 #### Abstimmungschannel OG Hamburg:
 Auch diesem Channel solltest du **unbedingt** beitreten, hier finden alle Abstimmungen unserer Ortsgruppe statt:
@@ -16,7 +16,12 @@ Auch diesem Channel solltest du **unbedingt** beitreten, hier finden alle Abstim
 #### Bundesstream Hamburg:
 In diesem Channel findet ihr alle Nachrichten und Abstimmung rund um die Bundesebene:
 
-[t.me/joinchat/AAAAAFMKpYdDJ0xxAseC5Q](https://t.me/joinchat/AAAAAFMKpYdDJ0xxAseC5Q)
+[https://t.me/joinchat/AAAAAFMKpYdDJ0xxAseC5Q](https://t.me/joinchat/AAAAAFMKpYdDJ0xxAseC5Q)
+
+#### Klimacamp (Orga)
+Hier wird das Klimacamp organisiert:
+[https://t.me/joinchat/V_nbPPnUN6DyNUFx](https://t.me/joinchat/V_nbPPnUN6DyNUFx)
+
 
 #### Smalltalk:
 Weil in der Open Orga Gruppe wirklich nur Orga besprochen werden soll, gibt es die Smalltalk Gruppe, wo sich auch über private Dinge ausgetauscht werden kann. Gut um die Mitglieder der OG kennenzulernen:
@@ -43,12 +48,12 @@ In dieser Gruppe wird der wöchentliche Aufbau vom Lautsprecher Wagen koordinier
 [https://t.me/joinchat/CysHW1J2WNo4W_z2gBXbcQ](https://t.me/joinchat/CysHW1J2WNo4W_z2gBXbcQ)
 
 #### Studi AG:
-Du studierst schon und würdest gerne mithelfen FFF an den UNIs noch präsenter zu machen? Dann komm in die Studi AG! 
+Du studierst schon und würdest gerne mithelfen FFF an den UNIs noch präsenter zu machen? Dann komm in die Studi AG! Dieser Link transporiert dich in die Studi AG Onboardin Gruppe, es finden fast wöchentlich onboardings statt bei denen du mitmachen kannst, ansonsten kannst du auch einfach einem der Admins aus der Gruppe schreiben. 
 [https://t.me/joinchat/V024Ge9uRxjcinBS](https://t.me/joinchat/V024Ge9uRxjcinBS)
 
 
 
 Daneben gibt es noch viele weitere Gruppen über die es momentan leider noch keine gute Übersicht gibt. Daran wird gerade gearbeitet. 
-Grundsätzlich stehen dir aber alle Gruppen offen die nicht gerade für gewählte Ämter (z.B. PressesprecherInnen) sind. 
+Grundsätzlich stehen dir aber alle Gruppen offen die nicht gerade für gewählte Ämter (z.B. Pressesprecher*Innen) sind. 
 
 Hast du schon unsere coolen AGs gesehen? Dort kannst du dir aussuchen wo du gerne mitarbeiten willst. [Hier](https://frooob.github.io/FFF/AGs/) findest du die AGs!

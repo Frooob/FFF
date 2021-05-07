@@ -12,18 +12,13 @@ Du kannst aber natürlich trotzdem gerne bei verschiedenen AGs reinschnuppern un
 In dieser super AG wird das wöchentliche Plenum organisiert, die Regeln der OG entworfen, das Onboarding geplant und 
 die IT-Plattformen der Ortsgruppe verwaltet. Wenn du in der Struktur AG und/oder in einer der Untergruppen mitmachen willst, wende dich an: [Matthias](https://t.me/MatthiasMi) In der Struktur AG gibt es zur Zeit folgende Untergruppen: 
 
-##### Welcome T-AG
-Hier wird das Onboarding geplant, also die Treffen um die neuen Menschen in unsere Arbeitsweise einzuführen. Außerdem werden Pläne entworfen alle 
-neuen Mitglieder der OG so gut wie möglich zu integrieren. 
-
 
 # Programm AG 
-In dieser AG werden die wöchentlichen Streiks organisiert. Also die Routen, das Thema und die Aktionsformen. Wenn du in der Programm AG und/oder in einer der Untergruppen mitmachen willst, wende dich an: [Maibritt](https://t.me/MaibrittHamburg) aus der OO oder [Liv](https://t.me/sternchennnn).
-In der Programm AG gibt es zur Zeit folgende Untergruppen: 
+In dieser AG werden die wöchentlichen Streiks organisiert. Also die Routen, das Thema und die Aktionsformen. Wenn du in der Programm AG und/oder in einer der Untergruppen mitmachen willst, wende dich an: [Maibritt](https://t.me/MaibrittHamburg). 
 
 
 # Awareness AG 
-Hier geht es darum, dass es allen Mitgliedern der OG gut geht. Dafür soll die Awareness AG zum Beispiel Hilfe bei Konfliktlösungen bieten und dafür sorgen dass sich niemand diskriminiert fühlt. Aber auch auf den Großdemos haben wir immer Awareness Teams die dafür sorgen dass sich niemand unter den Demo TeilnehmerInnen unwohl fühlt. Wenn du in der Awareness AG mitmachen willst, wende dich an: [Franka](https://t.me/franka03).
+Hier geht es darum, dass es allen Mitgliedern der OG gut geht. Dafür soll die Awareness AG zum Beispiel Hilfe bei Konfliktlösungen bieten und dafür sorgen dass sich niemand diskriminiert fühlt. Aber auch auf den Großdemos haben wir immer Awareness Teams, die dafür sorgen, dass sich niemand unter den Demo TeilnehmerInnen unwohl fühlt. Wenn du in der Awareness AG mitmachen willst, wende dich an: [Franka](https://t.me/franka03).
 
 # Öffi AG
 In der AG für Öffentlichkeitsarbeit geht es rund um unsere Außenpräsenz. Es ist der Zusammenschluss von unseren SocialMedia und Presse Teams. Hier wird alles zu dem Thema besprochen. Wenn du mitarbeiten möchtest, schreib einfach eine Nachricht ins OO (bis jetzt gibt es noch keine Ansprechpersonen).
@@ -33,9 +28,6 @@ Um an den Unis von Hamburg präsent zu bleiben und im Austausch zu bleiben haben
 
 # Fun AG
 Die Fun AG kümmert sich darum, dass die Arbeit in der Ortsgruppe ein bisschen mehr Spaß macht :) Um der AG beizutreten kannst du gerne [Lorenz](https://t.me/LorenzPatzner).
-
-
-
 
 
 
