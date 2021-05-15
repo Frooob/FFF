@@ -31,9 +31,9 @@ How-Tos
 
 * Delis: [Maia](https://t.me/maiafffhh), [Leslie](https://t.me/lesliekng), [Luise](https://t.me/luisewo)
 * Vertrauenspersonen: [Linnea](https://t.me/Linnea_HH), [Maibritt](https://t.me/MaibrittHamburg), [Inga](https://t.me/ingamlhms), [Henrike](https://t.me/Henrike_T), [Matthias](https://t.me/MatthiasMi)
-* Pressesprecher*innen: [Annika R](https://t.me/annika1209), [Florian](https://t.me/fkoenig), [Lorenz](https://t.me/LorenzPatzner), [Maia](https://t.me/maiafffhh), [Annika K](https://t.me/annikakruse)
-* Pressekoordination: [Philipp We](https://t.me/philippniclas), [Pauline](https://t.me/PaulineWackermann)
-* Social-Media-Koordination: [Juli](https://t.me/julifee06), [Sophia](https://t.me/sophiamariescr), [Jan-Marius](https://t.me/janmarius_k), [Nils](https://t.me/NilsBocki)
+* Pressesprecher*innen: [Annika R](https://t.me/annika1209), [Florian](https://t.me/fkoenig), [Lorenz](https://t.me/LorenzPatzner), [Maia](https://t.me/maiafffhh)
+* Pressekoordination: [Philipp We](https://t.me/philippniclas), [Pauline](https://t.me/PaulineWackermann), [Annika K](https://t.me/annikakruse)
+* Social-Media-Koordination: [Juli](https://t.me/julifee06), [Sophia](https://t.me/sophiamariescr), [Anna E](https://t.me/anna_ehrenberg)
 * Chat-Moderation: _wird noch gewählt_
 * Buddies: [Luise](https://t.me/luisewo), [Sophia](https://t.me/sophiamariescr), [Henrike](https://t.me/Henrike_T)
 * Klimarat: [Eva](https://t.me/evajuliemars), [Annika K](https://t.me/annikakruse)
