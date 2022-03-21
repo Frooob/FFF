@@ -7,52 +7,74 @@ sidebar: auto
 
 Im Folgenden findest du Informationen zu den einzelnen Programmpunkten
 
-## Workshop von den Computer Scientists For Future für ALLE Fachbereiche [01. April, 16:00 Uhr]
+## Freitag, 01.04.2022
 
+### [16:00] Workshop von den Computer Scientists For Future
+ALLE Fachbereiche sind eingeladen.
 
-Wie kann die Informatik dazu beitragen, für eine nachhaltigere Welt zu sorgen? Ein Workshop, bei dem die Ziele und Herausforderungen der verschiedenen Fachbereiche untersucht werden, um daraus Möglichkeiten zur Kooperation abzuleiten.
+Das Department Informatik stellt sich der Verantwortung und startet einen Veränderungsprozess, um die Ideen des Klimaschutzes und der Nachhaltigkeit (aus Sicht der Informatik) in das Curriculum, unseren Kontakten zu Industrie und Gesellschaft, in die Forschung und die Organisation zu integrieren. Wir möchten den Teilnehmern CS4F vorstellen und mit ihnen die aktive Rolle der Informatik in diesem Prozess diskutieren. Wo liegen Chancen, wo liegen Risiken. Insbesondere sind wir von CS4F an einem interdisziplinären Austausch interessiert. Wir freuen uns auf Freitag den 01.04.2022 um 16:00 Uhr im Gebäude BT7 (Campus Berliner Tor) im Raum 12.83.
 
-## Get Together [01. April, ab 19:00 Uhr]
-Hier kommen wir zusammen und machen Spiele und so 
+### [ab 19:00] Get Together 
+Wir bringen Getränke, Snacks und Spiele mit. 
 
-## Brunch & Vortrag von den Scientists For Future [02. April, 11:00 Uhr]
+## Samstag, 02.04.2022
 
+### [ab 11:00] Brunch & Vortrag von den Scientists For Future 
 Zusammen essen und Vortrag von Dr. Florian Ziemen über ...
 
-## Kino Abend [02. April, 17:00 Uhr]
+### [ab 17:00] Kino Abend 
 
 Kinofilm
 
-## Fahrradtour [03. April, 14:00 Uhr]
+## Sonntag, 03.04.2022
 
-Fahrradtour (Sebastian)
+### [14:00] Fahrradtour 
 
-## Besuch im Deutschen Klimarechenzentrum I [04. April, 16:00 Uhr]
+Geplant ist eine Fahrradtour durch unsere  wunderschönen Hansestadt im Grünen. Dabei werden wir viele bekannte und auch unbekannte Orte entdecken - und euch zeigen das in Hamburg fast alles nur einen Katzensprung entfernt ist. Enden soll das ganze in einem schönen Picknick im grünen mit Essen, Snacks und Softdrinks und ganz vielleicht auch ein paar Bierchen gesponsort vom HAW-AstA. Es lohnt sich für Neu- und Althamburger gleichermaßen.
 
+Startpunkt wird 14h der Spielplatz vor der HAW am Berliner Tor sein. Um 15h werden wir einen Zwischenstop an der UHH einlegen um weitere Fahrradbegeisterte aufzunehmen.
+Falls ihr kein Fahrrad besitzt möchten wir euch auf diesem Wege auch die schönen Stafträder des HVV empfehlen - die Kosten für diese wären sogar für den Zeitraum der Tour über den AstA erstattungsfähig.
+
+Wir freuen uns auf euch! 🚲
+
+## Montag, 04.04.2022
+
+### [16:00] Besuch im Deutschen Klimarechenzentrum I 
 Besuch im DKRZ 
 
-## Vorstellung vom HAW AStA mit Crepes [04. April, ab 16:00 Uhr]
+### [16:00] Vorstellung vom HAW AStA mit Crepes 
 
 Beschreibung
 
-## Ringvorlesung + Diskussionsrunde [05. April, 17:00 Uhr, Digital]
+## Dienstag, 05.04.2022
 
-Ringvorlesung + Diskussion (Sebastian)
+### [17:00, digital] Ringvorlesung + Diskussionsrunde 
 
-## Kleidertausch/ Pflanzenstecklingstauschparty [06. April, 16:00 Uhr]
+Du interessiest dich fürs Klima, Nachhaltigkeit oder möchtest was ändern? Du kennst die Ringvorlesung "Our House is still on fire" schon aus dem letzten Semester oder hast davon gehört wie gut sie ist? Nein - dann möchtest du sie ganz bestimmt kennenlernen!
 
-Sei dabei und werde Teil davon (Daha, Sebastian)
+Wir werden gemeinsam in einem Hörsaal der UHH zum ersten mal eine "Live" gestreamte Ringvorlesung stattfinden lassen und uns die erste Vorlesung der Reihe gemeinsam anschauen - damit es sich auch endlich mal wieder wie "ich geh zur UNI anfühlt". Danach kann in offener oder kleiner Runde über Probleme und Lösungen gesprochen und diskutiert werden. Dazu gibts wie es sich für eine OE gehört Bier, Snacks und Softdrinks gesponsort vom HAW-AstA
 
-## Engagement für Klima- und Naturschutz in Hamburg - Überblick [06. April, 18:00 Uhr]
+## Mittwoch, 06.04.2022
+
+### [16:00] Kleidertausch/ Pflanzenstecklingstauschparty 
+
+Bringt eure Kleidungsstücke oder Stecklinge und Pflanzen von zu Hause mit und tauscht sie gegen so viele neues ein wie ihr mögt. 
+Wir planen auch einen Live-Workshop zum Ein- und Umtopfen stattfinden zu lassen. Für Erde sorgen wir, aber wenn ihr noch Töpfe übrig habt sind die immer gern gesehen.
+
+Gleichzeitig könnt ihr euch auch über Möglichkeiten zum Engagement für Klimaschutz in Hamburg informieren! In einer Info-Ausstellung präsentieren wir euch die verschiedenen Möglichkeiten und Projekte und NGO's, stehen für Fragen zur Verfügung und geben euch Anknüpfungspunkte um direkt starten zu können. 
+
+Wie bei allen unseren diesjährigen Veranstaltungen sind wir sponsored bei HAW-AstA und es gibt Softdrinks, Snacks und auch das ein oder andere Bier für euch.
+### [18:00] Engagement für Klima- und Naturschutz in Hamburg - Überblick 
 
 Von Fridays for Future bis hin zum Foodsharing - in Hamburg gibt es allerlei Möglichkeiten sich nachhaltig zu engagieren. Dabei kann man immer interessante Menschen kennen lernen die ähnliche Interessen haben. Wir stellen euch die verschiedenen Möglichkeiten vor und geben euch direkt Anknüpfungspunkte an die Hand um direkt zu starten.
 
-## Students For Future Onboarding [07. April, 18:00 Uhr]
+## Donnerstag, 07.04.2022
+
+### [18:00] Students For Future Onboarding 
 
 Hier bekommst du eine kleine Einführungen in unsere Strukturen und kannst im Anschluss wenn du magst direkt an unserem Plenum teilnehmen.
 
-## Schnupperkurs fürs Aktionsklettern [08. April, 16:00 Uhr]
+## Freitag, 08.04.2022
 
-Zusammen mit den Aktivisti vom Wilden Wald gibt es einen Schnupperkletterkurs bei dem wichtige Sicherungstechniken gelernt werden. Außerdem werden unterschiedliche Möglichkeiten vorgestellt, wie das Klettern aktivistisch genutzt werden kann (z.B. Bannerdrop, Bäume klettern)
-
-## Weite Überschrift um was zu testen
+### [16:00] Schnupperkurs fürs Aktionsklettern 
+Zusammen mit den Aktivisti vom Wilden Wald gibt es einen Schnupperkletterkurs bei dem wichtige Sicherungstechniken gelernt werden. Außerdem werden unterschiedliche Möglichkeiten vorgestellt, wie das Klettern aktivistisch genutzt werden kann [z.B. Bannerdrop, Bäume klettern]
