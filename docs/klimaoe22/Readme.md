@@ -1,11 +1,11 @@
 ---
-title: Klima OE 22 Programm FFFHH
+title: Kickstart fürs Klima - Eine Themenwoche für alle Studierenden | Sommersemeser 2022
 sidebar: auto
 ---
 
 # Klima OE 22 
 
-Im Folgenden findest du Informationen zu den einzelnen Programmpunkten
+Im Folgenden findest du Informationen zu den einzelnen Programmpunkten. Zur Anmeldung kommst du hier: [https://fffutu.re/kickstartKlimaProgramm](https://fffutu.re/kickstartKlimaProgramm). Tretet außerdem für noch mehr Infos einer unserer unverbindlichen Teilnahmegruppen bei: [https://fffutu.re/kickstartKlimaInfos](https://fffutu.re/kickstartKlimaInfos)  
 
 ## Freitag, 01.04.2022
 
@@ -14,15 +14,15 @@ ALLE Fachbereiche sind eingeladen.
 
 Das Department Informatik stellt sich der Verantwortung und startet einen Veränderungsprozess, um die Ideen des Klimaschutzes und der Nachhaltigkeit (aus Sicht der Informatik) in das Curriculum, unseren Kontakten zu Industrie und Gesellschaft, in die Forschung und die Organisation zu integrieren. Wir möchten den Teilnehmern CS4F vorstellen und mit ihnen die aktive Rolle der Informatik in diesem Prozess diskutieren. Wo liegen Chancen, wo liegen Risiken. Insbesondere sind wir von CS4F an einem interdisziplinären Austausch interessiert. Wir freuen uns auf Freitag den 01.04.2022 um 16:00 Uhr im Gebäude BT7 (Campus Berliner Tor) im Raum 12.83.
 
-### [ab 19:00] Get Together 
+### [19:00] Get Together 
 Wir bringen Getränke, Snacks und Spiele mit. 
 
 ## Samstag, 02.04.2022
 
-### [ab 11:00] Brunch & Vortrag von den Scientists For Future 
+### [11:00] Brunch & Vortrag von den Scientists For Future 
 Zusammen essen und Vortrag von Dr. Florian Ziemen über ...
 
-### [ab 17:00] Kino Abend 
+### [17:00] Kino Abend 
 
 Kinofilm
 
@@ -56,17 +56,17 @@ Wir werden gemeinsam in einem Hörsaal der UHH zum ersten mal eine "Live" gestre
 
 ## Mittwoch, 06.04.2022
 
-### [16:00] Kleidertausch/ Pflanzenstecklingstauschparty 
+### [16:00] Kleidertausch/ Pflanzenstecklingstauschparty & Engagement für Klima- und Naturschutz in Hamburg - Überblick 
 
-Bringt eure Kleidungsstücke oder Stecklinge und Pflanzen von zu Hause mit und tauscht sie gegen so viele neues ein wie ihr mögt. 
-Wir planen auch einen Live-Workshop zum Ein- und Umtopfen stattfinden zu lassen. Für Erde sorgen wir, aber wenn ihr noch Töpfe übrig habt sind die immer gern gesehen.
 
-Gleichzeitig könnt ihr euch auch über Möglichkeiten zum Engagement für Klimaschutz in Hamburg informieren! In einer Info-Ausstellung präsentieren wir euch die verschiedenen Möglichkeiten und Projekte und NGO's, stehen für Fragen zur Verfügung und geben euch Anknüpfungspunkte um direkt starten zu können. 
+Kleidungs- und Pflanzenstecklingstauschparty & Engagement für Klima- und Naturschutz in Hamburg - Überblick 
+Bringt eure Kleidungsstücke oder Stecklinge und Pflanzen von zu Hause mit und tauscht sie gegen so viele neue ein, wie ihr mögt. Wir planen auch, einen Live-Workshop zum Ein- und Umtopfen stattfinden zu lassen. Für Erde sorgen wir, aber wenn ihr noch Töpfe übrig habt, sind die immer gern gesehen!
 
-Wie bei allen unseren diesjährigen Veranstaltungen sind wir sponsored bei HAW-AstA und es gibt Softdrinks, Snacks und auch das ein oder andere Bier für euch.
-### [18:00] Engagement für Klima- und Naturschutz in Hamburg - Überblick 
+Gleichzeitig könnt ihr euch auch über Möglichkeiten zum Engagement für Klimaschutz in Hamburg informieren! In einer Info-Ausstellung präsentieren wir euch die verschiedenen Möglichkeiten, Projekte und NGO's, stehen für Fragen zur Verfügung und geben euch Anknüpfungspunkte, um direkt starten zu können.
 
-Von Fridays for Future bis hin zum Foodsharing - in Hamburg gibt es allerlei Möglichkeiten sich nachhaltig zu engagieren. Dabei kann man immer interessante Menschen kennen lernen die ähnliche Interessen haben. Wir stellen euch die verschiedenen Möglichkeiten vor und geben euch direkt Anknüpfungspunkte an die Hand um direkt zu starten.
+Wie bei allen unseren diesjährigen Veranstaltungen sind wir sponsored by HAW-AstA und es gibt Softdrinks, Snacks und auch das ein oder andere Bier für euch.
+
+
 
 ## Donnerstag, 07.04.2022
 
