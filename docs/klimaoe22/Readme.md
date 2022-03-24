@@ -7,6 +7,8 @@ sidebar: auto
 
 Im Folgenden findest du Informationen zu den einzelnen Programmpunkten. Zur Anmeldung kommst du hier: [https://fffutu.re/kickstartKlimaProgramm](https://fffutu.re/kickstartKlimaProgramm). Tretet außerdem für noch mehr Infos einer unserer unverbindlichen Teilnahmegruppen bei: [https://fffutu.re/kickstartKlimaInfos](https://fffutu.re/kickstartKlimaInfos)  
 
+![programmuerberblick](./shaerpic_programm.jpeg "Programm")
+
 ## Freitag, 01.04.2022
 
 ### [16:00] Workshop von den Computer Scientists For Future
@@ -15,16 +17,16 @@ ALLE Fachbereiche sind eingeladen.
 Das Department Informatik stellt sich der Verantwortung und startet einen Veränderungsprozess, um die Ideen des Klimaschutzes und der Nachhaltigkeit (aus Sicht der Informatik) in das Curriculum, unseren Kontakten zu Industrie und Gesellschaft, in die Forschung und die Organisation zu integrieren. Wir möchten den Teilnehmern CS4F vorstellen und mit ihnen die aktive Rolle der Informatik in diesem Prozess diskutieren. Wo liegen Chancen, wo liegen Risiken. Insbesondere sind wir von CS4F an einem interdisziplinären Austausch interessiert. Wir freuen uns auf Freitag den 01.04.2022 um 16:00 Uhr im Gebäude BT7 (Campus Berliner Tor) im Raum 12.83.
 
 ### [19:00] Get Together 
-Wir bringen Getränke, Snacks und Spiele mit. 
+Das Get Together soll ein entspannter Abend zum gegenseitigen Kennenlernen sein. Spiele und Getränke gibt es dort, ihr könnt aber auch gerne euer/eure Lieblingsspiel(e) mitbringen. Es wird ein offenes Ende geben, also mal sehen, wohin uns der Abend so verschlägt!    
 
 ## Samstag, 02.04.2022
 
 ### [11:00] Brunch & Vortrag von den Scientists For Future 
-Zusammen essen und Vortrag von Dr. Florian Ziemen über ...
+Hier erwartet euch ein gemeinsamen Brunch in gemütlicher Atmosphäre und direkt im Anschluss einen Vortrag von Dr. Florian Ziemen zum Klimasystem.   
 
 ### [17:00] Kino Abend 
 
-Kinofilm
+Gemeinsamer Kinoabend in entspannter Atmosphäre.Veranstaltungsort ist die Uni HH, dort dürft ihr es euch mit Snacks und Getränken gemütlich machen. Es wird ein Film zum Thema Klimaschutz und Nachhaltigkeit gezeigt.   
 
 ## Sonntag, 03.04.2022
 
@@ -40,11 +42,10 @@ Wir freuen uns auf euch! 🚲
 ## Montag, 04.04.2022
 
 ### [16:00] Besuch im Deutschen Klimarechenzentrum I 
-Besuch im DKRZ 
+Hier unternehmen wir einen Besuch im Deutschen Klimarechenzentrum (DKRZ). Dort erhalten wir dann eine Führung, in der es um Klimasimulationen und die Hochleistungsrechnersysteme in der Klimaforschung gehen wird.        
 
 ### [16:00] Vorstellung vom HAW AStA mit Crepes 
-
-Beschreibung
+Ein entspannter Abend zum AStA kennenlernen bei veganen Crêpes! 
 
 ## Dienstag, 05.04.2022
 
